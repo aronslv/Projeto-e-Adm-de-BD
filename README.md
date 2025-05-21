@@ -5,3 +5,5 @@
 - 📧 **E-mail:** aronsilvagm@gmail.com
 
 [Tarefa 01](https://github.com/aronslv/Projeto-e-Adm.-de-BD/blob/main/tarefas/t01/tarefa01.md)
+
+[Tarefa 02](https://github.com/aronslv/Projeto-e-Adm.-de-BD/blob/main/tarefas/orm/tarefa-orm.md)
